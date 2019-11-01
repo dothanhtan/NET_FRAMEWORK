@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.FrmThongTinSinhVien.resources
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.Properties.Resources.resources
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\bin\Debug\FrmThongTinSinhVien.exe.config
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\bin\Debug\FrmThongTinSinhVien.exe
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\bin\Debug\FrmThongTinSinhVien.pdb
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.exe
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.pdb
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\bin\Debug\Data\student.txt
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\bin\Debug\Data\learninghistory.txt
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.View.FrmQuaTrinhHocTapChiTiet.resources
