@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,9 +47,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\ContactService.cs" />
+    <Compile Include="Model\Contact.cs" />
     <Compile Include="Controller\StudentService.cs" />
+    <Compile Include="View\FrmContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmContact.Designer.cs">
+      <DependentUpon>FrmContact.cs</DependentUpon>
+    </Compile>
     <Compile Include="Model\LearningHistory.cs" />
     <Compile Include="Model\Student.cs" />
+    <Compile Include="View\FrmContactDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmContactDetail.Designer.cs">
+      <DependentUpon>FrmContactDetail.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\FrmQuaTrinhHocTapChiTiet.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +78,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="View\FrmContact.resx">
+      <DependentUpon>FrmContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmContactDetail.resx">
+      <DependentUpon>FrmContactDetail.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\FrmQuaTrinhHocTapChiTiet.resx">
       <DependentUpon>FrmQuaTrinhHocTapChiTiet.cs</DependentUpon>
     </EmbeddedResource>
@@ -112,6 +133,9 @@
     <None Include="Resources\remove.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\Contact.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Data\learninghistory.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

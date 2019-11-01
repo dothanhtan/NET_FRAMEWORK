@@ -11,3 +11,5 @@ C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\Frm
 C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\bin\Debug\Data\student.txt
 C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\bin\Debug\Data\learninghistory.txt
 C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.View.FrmQuaTrinhHocTapChiTiet.resources
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.FrmContact.resources
+C:\Users\DELL\source\repos\FrmThongTinSinhVien\FrmThongTinSinhVien\obj\Debug\FrmThongTinSinhVien.View.FrmContactDetail.resources

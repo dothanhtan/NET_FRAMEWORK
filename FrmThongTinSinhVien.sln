@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmThongTinSinhVien", "FrmThongTinSinhVien\FrmThongTinSinhVien.csproj", "{2117D371-4E69-48FA-8E09-0BF58360A7C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmConTact", "FrmConTact\FrmConTact.csproj", "{97A669F6-1A93-49AB-ADB6-8E2BEB921726}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2117D371-4E69-48FA-8E09-0BF58360A7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2117D371-4E69-48FA-8E09-0BF58360A7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2117D371-4E69-48FA-8E09-0BF58360A7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A669F6-1A93-49AB-ADB6-8E2BEB921726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A669F6-1A93-49AB-ADB6-8E2BEB921726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A669F6-1A93-49AB-ADB6-8E2BEB921726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A669F6-1A93-49AB-ADB6-8E2BEB921726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

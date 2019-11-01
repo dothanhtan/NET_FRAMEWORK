@@ -16,7 +16,8 @@ namespace FrmThongTinSinhVien
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmThongTinSinhVien("16T1021156"));
+            //Application.Run(new FrmThongTinSinhVien("16T1021156"));
+            Application.Run(new FrmContact());
         }
     }
 }

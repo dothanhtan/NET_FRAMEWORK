@@ -8,9 +8,16 @@ namespace FrmThongTinSinhVien.Model
 {
     public class Contact
     {
-        public String IDContact { get; set; }
-        public String Name { get; set; }
-        public String Phone { get; set; }
-        public String Email { get; set; }
+        public String contactID { get; set; }
+        public String contactName { get; set; }
+        public String contactPhone { get; set; }
+        public String contactEmail { get; set; }
+        public string Character
+        {
+            get
+            {
+                return contactName[0].ToString().ToUpper();
+            }
+        }
     }
 }
